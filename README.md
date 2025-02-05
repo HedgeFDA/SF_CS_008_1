@@ -1,1 +1,5 @@
-# SF_CS_008_1
+# Skillfactory / C#
+
+**8 модуль** задание 1
+
+## ReadMe
